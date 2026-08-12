@@ -1,0 +1,53 @@
+body {
+  background-color: hsla(212, 45%, 89%);
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+div {
+  background-color: white;
+  margin: auto;
+  margin-top: 25%;
+  width: 360px;
+  height: 550px;
+  border-radius: 15px;
+}
+
+.mydiv {
+  text-align: center;
+  border-radius: 15px;
+}
+
+img {
+  max-width: 90%;
+  border-radius: 8px;
+  margin-top: 5%;
+}
+
+h1 {
+  font-family: "Outfit", sans-serif;
+  font-weight: 700;
+  font-size: 25px;
+  color: hsla(218, 44%, 22%);
+  padding: 5%;
+  padding-bottom: 0%;
+  padding-top: 1%;
+}
+
+p {
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+  color: hsla(216, 15%, 48%);
+  padding: 0% 11%;
+}
+
+footer {
+  text-align: center;
+  padding-right: 15%;
+  padding-left: 15%;
+  padding-bottom: 3%;
+}
