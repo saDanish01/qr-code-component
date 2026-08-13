@@ -26,8 +26,8 @@ This project is the first and simplest Frontend Mentor challenge. In a way, it w
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/saDanish01/qr-code-component](https://github.com/saDanish01/qr-code-component)
+- Live Site URL: [https://sadanish01.github.io/qr-code-component/](https://sadanish01.github.io/qr-code-component/)
 
 
 ## My process
