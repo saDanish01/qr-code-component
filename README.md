@@ -5,10 +5,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+- [Screenshot](#screenshot)
+- [Links](#links)
 - [My process](#my-process)
-  - [AI Collaboration](#ai-collaboration)
+- [AI Collaboration](#ai-collaboration)
 - [Author](#author)
 
 
@@ -41,7 +41,7 @@ This project was built step-by-step as follows:
 
 ### AI Collaboration
 
-During this project, I worked with an AI assistant (Gemini) as a coding partner. Whenever I got stuck�like fixing the footer position or centering elements�the AI gave me guidance and explanations to solve the issues. This collaboration helped me learn faster, understand CSS layout better, and improve my coding skills.
+During this project, I worked with an AI assistant (Gemini) as a coding partner. Whenever I got stuck—like fixing the footer position or centering elements—the AI gave me guidance and explanations to solve the issues. This collaboration helped me learn faster, understand CSS layout better, and improve my coding skills.
 
 
 ## Author
