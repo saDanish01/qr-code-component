@@ -10,9 +10,8 @@ body {
 
 div {
   background-color: white;
-  margin: auto;
-  margin-top: 25%;
-  width: 360px;
+  margin: 24% 0 32.5% 0;
+  width: 330px;
   height: 550px;
   border-radius: 15px;
 }
@@ -24,18 +23,21 @@ div {
 
 img {
   max-width: 90%;
-  border-radius: 8px;
+  border-radius: 9px;
   margin-top: 5%;
 }
 
 h1 {
   font-family: "Outfit", sans-serif;
   font-weight: 700;
-  font-size: 25px;
+  font-size: 23px;
   color: hsla(218, 44%, 22%);
   padding: 5%;
   padding-bottom: 0%;
   padding-top: 1%;
+  /*margin:0 2% 0 1%;*/
+  margin-left: 2.5%;
+  margin-right: 3%;
 }
 
 p {
